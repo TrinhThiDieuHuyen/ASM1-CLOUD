@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\manageBillRestaurant\manageBillRestaurant\bin\Debug\netcoreapp3.1\manageBillRestaurant.exe
+C:\Users\Admin\source\repos\manageBillRestaurant\manageBillRestaurant\bin\Debug\netcoreapp3.1\manageBillRestaurant.deps.json
+C:\Users\Admin\source\repos\manageBillRestaurant\manageBillRestaurant\bin\Debug\netcoreapp3.1\manageBillRestaurant.runtimeconfig.json
+C:\Users\Admin\source\repos\manageBillRestaurant\manageBillRestaurant\bin\Debug\netcoreapp3.1\manageBillRestaurant.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\manageBillRestaurant\manageBillRestaurant\bin\Debug\netcoreapp3.1\manageBillRestaurant.dll
+C:\Users\Admin\source\repos\manageBillRestaurant\manageBillRestaurant\bin\Debug\netcoreapp3.1\manageBillRestaurant.pdb
+C:\Users\Admin\source\repos\manageBillRestaurant\manageBillRestaurant\obj\Debug\netcoreapp3.1\manageBillRestaurant.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\manageBillRestaurant\manageBillRestaurant\obj\Debug\netcoreapp3.1\manageBillRestaurant.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\manageBillRestaurant\manageBillRestaurant\obj\Debug\netcoreapp3.1\manageBillRestaurant.AssemblyInfo.cs
+C:\Users\Admin\source\repos\manageBillRestaurant\manageBillRestaurant\obj\Debug\netcoreapp3.1\manageBillRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\manageBillRestaurant\manageBillRestaurant\obj\Debug\netcoreapp3.1\manageBillRestaurant.dll
+C:\Users\Admin\source\repos\manageBillRestaurant\manageBillRestaurant\obj\Debug\netcoreapp3.1\manageBillRestaurant.pdb
+C:\Users\Admin\source\repos\manageBillRestaurant\manageBillRestaurant\obj\Debug\netcoreapp3.1\manageBillRestaurant.genruntimeconfig.cache
